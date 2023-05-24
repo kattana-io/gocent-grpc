@@ -1,4 +1,4 @@
-module gitlab.com/kattana/gocent-grpc
+module github.com/kattana-io/gocent-grpc
 
 go 1.20
 
